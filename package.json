@@ -1,0 +1,28 @@
+{
+  "name": "ngl-spam-bot",
+  "version": "1.0.0",
+  "description": "A Flask app that sends spam messages to NGL links using random user agents.",
+  "main": "app.py",
+  "scripts": {
+    "start": "python3 app.py"
+  },
+  "dependencies": {
+    "Flask": "^2.2.2",
+    "urllib3": "^1.26.10",
+    "requests": "^2.26.0"
+  },
+  "devDependencies": {},
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/ngl-spam-bot.git"
+  },
+  "keywords": [
+    "flask",
+    "ngl",
+    "spam",
+    "bot",
+    "user-agents"
+  ]
+}
