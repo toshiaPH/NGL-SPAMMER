@@ -2,9 +2,9 @@
   "name": "ngl-spam-bot",
   "version": "1.0.0",
   "description": "A Flask app that sends spam messages to NGL links using random user agents.",
-  "main": "app.py",
+  "main": "main.py",
   "scripts": {
-    "start": "python3 app.py"
+    "start": "python3 main.py"
   },
   "dependencies": {
     "Flask": "^2.2.2",
